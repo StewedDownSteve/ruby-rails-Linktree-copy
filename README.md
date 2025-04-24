@@ -35,7 +35,15 @@ This project demonstrates my ability to learn new languages and frameworks quick
 - Validations and user-to-resource relationships
 
 ## Screen Shots
+*Log In*
+![Alt text](./ruby-rails-linktree-register.png)
 
+*New User*
+![New User Register](./ruby-rails-linktree-login.png)
+
+
+*Home Page*
+![Home Page](./ruby-rails-linktree-index.png)
 
 ## Installation Links
 
