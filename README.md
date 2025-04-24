@@ -1,27 +1,52 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Ruby on Rails Linktree Clone
 
-Things you may want to cover:
+This is a work-in-progress project built using **Ruby on Rails**, inspired by a Linktree-style landing page. The goal is to explore Ruby on Rails development from the ground up by following a guided walkthrough, while applying my own full-stack background and development style.
 
-* Ruby version
+## Tech Stack
 
-* System dependencies
+- **Ruby on Rails**
+- **PostgreSQL**
+- **Node.js & Yarn** for asset management
+- **Devise** for authentication
+- **Bootstrap** for styling
+- **FriendlyID** for user-friendly URLs
+- **Fly.io** (planned deployment platform)
 
-* Configuration
+## Purpose
 
-* Database creation
+This is my first Ruby on Rails project. While I'm new to the Rails ecosystem, I’ve built several full-stack apps using:
 
-* Database initialization
+- The **MERN stack** (MongoDB, Express, React, Node)
+- **Go** and various MVC-based frameworks
+- RESTful APIs and CRUD operations in multiple stacks
 
-* How to run the test suite
+This project demonstrates my ability to learn new languages and frameworks quickly, build scalable applications, and follow MVC architecture best practices.
 
-* Services (job queues, cache servers, search engines, etc.)
+## What I’ve Learned (so far)
 
-* Deployment instructions
+- Rails project structure and MVC fundamentals
+- Scaffolding and resource generation
+- User authentication using Devise
+- Creating and rendering partials for layout reuse (e.g., navbars)
+- Working with PostgreSQL in a Rails app
+- Adding FriendlyID for clean URLs
+- Basic deployment prep with Fly.io
+- Validations and user-to-resource relationships
 
-* ...
+## Screen Shots
+
+
+## Installation Links
+
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
+- [Node.js](https://nodejs.org/en/download)
+- [Rails Installer](https://railsinstaller.org/)
+- [Ruby Installer](https://rubyinstaller.org/)
+- [PostgreSQL](https://www.postgresql.org/download/)
+- [PowerShell (for Windows)](https://learn.microsoft.com/en-us/powershell/)
+- [Fly.io Hosting](https://fly.io)
+
 
 
 
